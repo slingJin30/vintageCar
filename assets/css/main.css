@@ -1,0 +1,41 @@
+/* navigation styles */
+
+.navbar-brand {
+  margin-right: 2rem;
+}
+
+/* hire car styles */
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #hire-intro {
+    font-size: 14px;
+  }
+}
+
+/* contact styles */
+
+#contact-company {
+  margin-top: 2rem;
+}
+
+#contact-email {
+  margin-bottom: 3rem;
+}
+
+/* footer styles */
+
+#back-to-top {
+  background: #FDC4C3;
+  color: #1B0404;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+#copyright {
+  margin-top: 3rem;
+}
+
+#copyright-div {
+  padding-bottom: 3rem;
+}
+

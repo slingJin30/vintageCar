@@ -1,0 +1,24 @@
+/* General styles */
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.content-title {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.modal-img-bottom {
+  margin-bottom: 16px;
+}
+
+.hire-car-image-edit {
+  filter: contrast(120%) saturate(156%);
+  border-radius: 1rem;
+}
+

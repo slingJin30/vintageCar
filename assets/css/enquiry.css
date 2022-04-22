@@ -1,0 +1,59 @@
+.enquire-form {
+  background: #f1f7fc;
+  padding: 14rem;
+}
+
+@media (max-width:767px) {
+  .enquire-form {
+    padding: 20px 0;
+  }
+}
+
+.enquire-form form {
+  max-width: 40rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  color: #232526;
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.49);
+}
+
+@media (max-width:767px) {
+  .enquire-form form {
+    padding: 30px;
+  }
+}
+
+.enquire-form h2 {
+  margin-bottom: 36px;
+}
+
+.enquire-form form .form-control {
+  background: #fff;
+  border-radius: 10px;
+  color: inherit;
+  height: 42px;
+}
+
+.enquire-form form textarea.form-control {
+  min-height: 100px;
+  max-height: 200px;
+  padding-top: 10px;
+}
+
+.enquire-form form .btn {
+  padding: 16px 32px;
+  border: none;
+  text-transform: uppercase;
+  font-weight: lighter;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  line-height: 1;
+}
+
+.enquire-form form .btn-primary {
+  background-color: #055ada !important;
+  margin-top: 15px;
+  color: #fff;
+}
+
