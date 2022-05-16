@@ -1,0 +1,46 @@
+
+body {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+#enquiresFrom {
+  background-color: #5600ff29;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+img {
+  border-radius: 10%;
+
+}
+ footer {
+   text-align: center;
+ }
+
+ .phoneNumber {
+   margin-bottom: 0;
+ }
+
+ #companyContactName {
+   margin-bottom: 0;
+   font-weight: bold;
+   font-size: 17px;
+ }
+
+ .card {
+  background-color: beige;
+ }
+
+ .btn {
+  background-color: gold;
+ }
+
+ .vintcarlogo {
+   width: 4pc;
+ }
+
+ h1 {
+   text-align: center;
+ }
