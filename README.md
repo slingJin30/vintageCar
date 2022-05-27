@@ -14,8 +14,6 @@ The theme for this Generation Australia and Academy XI project is a vintage auto
 
 **Other:** Bootstrap 5, HTML5, and CSS
 
-**Hosting:** Cloudfare Pages
-
 ## Authors
 
 - [@itsjustjordanhere](https://www.github.com/itsjustjordanhere)
