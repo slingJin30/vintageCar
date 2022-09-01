@@ -5,14 +5,16 @@ The theme for this Generation Australia and Academy XI project is a vintage auto
 
 ## Preview
 
-![App Screenshot](https://raw.githubusercontent.com/itsjustjordanhere/vintageCar/master/vintage-car-capture.jpeg)
+![App Screenshot](./vintage-car-capture.jpeg)
 
 
 ## Tools Used
 
 **Programs:** Visual Studio Code & Sublime Text
 
-**Other:** Bootstrap 5, HTML5, and CSS
+**Front-end framework** Bootstrap
+
+**Languages** HTML & CSS
 
 ## Authors
 
