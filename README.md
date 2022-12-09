@@ -15,8 +15,3 @@ The theme for this Generation Australia and Academy XI project is a vintage auto
 **Front-end framework** Bootstrap
 
 **Languages** HTML & CSS
-
-## Authors
-
-- [@itsjustjordanhere](https://www.github.com/itsjustjordanhere)
-
